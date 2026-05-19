@@ -1,4 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+
+## NAME: Naneshvaran C
+## REGISTER NO: 212224110038
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -63,17 +66,20 @@ contract Crowdfunding {
 # Expected Output:
 Users can contribute ETH to the campaign.
 
+<img width="1131" height="618" alt="image" src="https://github.com/user-attachments/assets/9fb0164d-f1c5-4c23-a510-3b5ec875fcda" />
 
 If the goal is met, the creator can withdraw funds.
 
+<img width="1123" height="599" alt="image" src="https://github.com/user-attachments/assets/4a367b17-76c5-4299-87ad-3fa9c9abfafe" />
 
 If the goal is not met, contributors can claim a refund.
 
+<img width="1137" height="618" alt="image" src="https://github.com/user-attachments/assets/aea56b8d-d378-403c-8415-40cf98bec2c5" />
 
 # High-Level Overview:
+
 Teaches decentralized fundraising.
-
-
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus, a decentralized crowdfunding platform has been created and successfully executed.
